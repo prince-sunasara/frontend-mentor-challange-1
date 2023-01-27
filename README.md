@@ -24,12 +24,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.jpg)
 ![desktop-view](https://user-images.githubusercontent.com/90463004/215085849-2631d1e2-f7d5-401b-a38a-3252a002afa1.png)
+this is how my site view in desktop mode.
+
 ![mobile-view](https://user-images.githubusercontent.com/90463004/215085754-73d4b4f7-332b-4927-94fe-55f04c706f4c.png)
+this is how my site view in mobile mode
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/prince-sunasara/frontend-mentor-challange-1)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://github.com/prince-sunasara/frontend-mentor-challange-1)
+- Live Site URL: [My live site](https://eclectic-babka-40e2a8.netlify.app/)
 
 ## My process
 
@@ -62,7 +66,3 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Frontend Mentor - [@prince-sunasara](https://www.frontendmentor.io/profile/prince-sunasara)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
